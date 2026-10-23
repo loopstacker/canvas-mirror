@@ -1,0 +1,8 @@
+{
+  "canvas_url": "https://canvas.yourschool.edu",
+  "courses_folder": "C:/Users/you/University",
+  "courses": {
+    "Programming": 12345,
+    "Databases": 67890
+  }
+}
